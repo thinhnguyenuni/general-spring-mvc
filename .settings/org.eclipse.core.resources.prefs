@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/WEB-INF/views/base/head.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/base/header.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/base/script.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/base/view.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/computer/list-computer.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/error/404.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/home/index.jsp=UTF-8
